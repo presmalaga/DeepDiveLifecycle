@@ -1,7 +1,5 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class Rules extends Component {
-    render() {
-        return <div>Rules...</div>;
-    }
+export default function () {
+    return <div>Rules...</div>;
 }

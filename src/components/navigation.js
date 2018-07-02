@@ -11,15 +11,11 @@ export default function () {
             </div>
 
             <div>
-                <NavLink to="/rules">
-                    Rules
-        </NavLink>
+                <NavLink to="/rules">Rules</NavLink>
             </div>
 
             <div>
-                <NavLink to="/workflow">
-                    Workflow
-        </NavLink>
+                <NavLink to="/workflow">Workflow</NavLink>
             </div>
         </div>
     );

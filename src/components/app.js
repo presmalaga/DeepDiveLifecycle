@@ -7,7 +7,6 @@ export default class App extends Component {
     return (
       <div>
         <h1>DevCamp React Starter</h1>
-
         <Navigation />
         <PageContent />
       </div>
